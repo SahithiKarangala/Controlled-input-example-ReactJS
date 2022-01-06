@@ -1,0 +1,16 @@
+.image {
+  height: 150px;
+  width: 200px;
+  border-radius: 7px;
+  border-style: none;
+  padding: 5px;
+}
+.destination-name {
+  font-size: 14px;
+  font-family: 'Roboto';
+  padding: 5px;
+  color: #252627;
+}
+.destination {
+  list-style: none;
+}
